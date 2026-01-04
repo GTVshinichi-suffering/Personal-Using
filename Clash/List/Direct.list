@@ -1,12 +1,9 @@
-DOMAIN-KEYWORD,bilibili
 DOMAIN-SUFFIX,store.epicgames.com
 DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,cn
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,qq
 DOMAIN-KEYWORD,taobao
@@ -16,13 +13,7 @@ DOMAIN-KEYWORD,douyu
 DOMAIN-KEYWORD,jd
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,sina
-
-  # > Bank of China
-DOMAIN-SUFFIX,boc.cn
-
-DOMAIN-SUFFIX,icbc.com.cn
-
-DOMAIN-SUFFIX,edu.cn
+DOMAIN-KEYWORD,weather
 
   # > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
@@ -54,33 +45,9 @@ DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
-DOMAIN-SUFFIX,360buy.com
-DOMAIN-SUFFIX,360buyimg.com
-
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,amap.com
-
-DOMAIN-SUFFIX,appstore.com
-
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,bdimg.com
-
-DOMAIN-SUFFIX,mi.com
-
-DOMAIN-SUFFIX,weather.com
 
 DOMAIN-SUFFIX,xiaohongshu.com
 
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,xiaomi.net
-DOMAIN-SUFFIX,xiaomicp.com
 DOMAIN-SUFFIX,ximalaya.com
 
 DOMAIN-SUFFIX,youdao.com
