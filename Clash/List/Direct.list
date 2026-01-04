@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,jd
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,sina
 DOMAIN-KEYWORD,weather
+DOMAIN-KEYWORD,ctrip
 
   # > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
