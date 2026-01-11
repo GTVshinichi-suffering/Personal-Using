@@ -13,8 +13,8 @@ DOMAIN-SUFFIX,smartmediarep.com
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,namu.wiki
 DOMAIN-SUFFIX,qtoon.co.kr
-DOMAIN-SUFFIX,toomics.com
-DOMAIN-SUFFIX,toptoon.com
+DOMAIN-KEYWORD,toomics
+DOMAIN-KEYWORD,toptoon
 DOMAIN-SUFFIX,lezhin.com
 DOMAIN-SUFFIX,freecomiconline.me
 IP-CIDR,101.101.160.0/20,no-resolve
