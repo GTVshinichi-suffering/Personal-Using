@@ -65,7 +65,7 @@
   "config/connection-table-columns": "[\"close\",\"type\",\"sourceIP\",\"host\",\"chains\",\"dlSpeed\",\"ulSpeed\",\"remoteAddress\",\"dl\",\"ul\",\"connectTime\"]",
   "config/auto-disconnect-idle-udp-time": "300",
   "config/table-column-pinning": "{\"left\":[],\"right\":[]}",
-  "setup/api-list": "[{\"protocol\":\"http\",\"host\":\"192.168.2.1\",\"port\":\"9090\",\"secondaryPath\":\"\",\"password\":\"25806428Qq\",\"label\":\"\",\"uuid\":\"d7276216-8975-41e0-ba04-6ecd1ddf37e7\"}]",
+  "setup/api-list": "[{\"protocol\":\"http\",\"host\":\"127.0.0.1\",\"port\":\"3072\",\"secondaryPath\":\"\",\"password\":\"25806428Qq\",\"label\":\"\",\"uuid\":\"d7276216-8975-41e0-ba04-6ecd1ddf37e7\"}]",
   "config/proxies-count-mode": "aliveTotal",
   "config/proxy-card-size": "large",
   "config/log-search-history": "[\"udp\",\"tun\",\"namesilo.com\",\"hexhub.cn\",\"51zmt.top\"]",
