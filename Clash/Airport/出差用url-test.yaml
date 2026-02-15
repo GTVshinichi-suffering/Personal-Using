@@ -566,7 +566,13 @@ proxy-groups:
   include-all: true
   filter: "^((?!(日本|德国|英国|美国|香港|韩国|台湾|新加坡)).)*$"
 rules:
+- DOMAIN-KEYWORD,zhuzhuzhu,Airport
+- DOMAIN-KEYWORD,66jc,Airport
+- DOMAIN-KEYWORD,k-speed,Airport
 - RULE-SET,哔哩哔哩,DIRECT
+- DOMAIN-SUFFIX,bilivideo.com,DIRECT
+- DOMAIN-SUFFIX,biliimg.com,DIRECT
+- DOMAIN-KEYWORD,bili,DIRECT
 - DOMAIN-SUFFIX,store.epicgames.com,Domestic
 - DOMAIN-SUFFIX,gov.cn,Domestic
 - DOMAIN-SUFFIX,edu.cn,Domestic
@@ -1284,3 +1290,4 @@ rule-providers:
     format: mrs
     url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.mrs
     interval: 10800
+
