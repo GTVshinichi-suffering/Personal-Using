@@ -1076,7 +1076,7 @@ dns:
 redir-port: 7892
 tproxy-port: 7895
 mixed-port: 7893
-secret: 25806428Qq
+secret: ''
 bind-address: "*"
 external-ui: "/usr/share/openclash/ui"
 external-ui-name: zashboard
@@ -1304,3 +1304,4 @@ rule-providers:
     format: mrs
     url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.mrs
     interval: 10800
+
