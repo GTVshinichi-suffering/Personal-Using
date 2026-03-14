@@ -23,6 +23,17 @@ DOMAIN-KEYWORD,iqiyi
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,163
 DOMAIN-KEYWORD,doubao
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,members.3322.org
 
   # > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
