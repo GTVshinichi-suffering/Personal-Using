@@ -1,11 +1,8 @@
 DOMAIN-SUFFIX,toolforge.org
 DOMAIN-KEYWORD,wiki
-DOMAIN-KEYWORD,twitch
 DOMAIN-KEYWORD,7tv
 DOMAIN,outlook.office365.com
 DOMAIN,smtp.office365.com
-DOMAIN-SUFFIX,imap.yandex.com
-DOMAIN-SUFFIX,smtp.yandex.com
 DOMAIN-KEYWORD,mail
 DOMAIN-KEYWORD,k-speed
 DOMAIN-KEYWORD,ghelper
@@ -23,9 +20,7 @@ DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-KEYWORD,z-library
 DOMAIN-SUFFIX,accounts.google.com
-DOMAIN-KEYWORD,fandom
 DOMAIN-KEYWORD,dnshe
 SRC-IP-CIDR,192.168.2.151/32
 SRC-IP-CIDR,192.168.2.243/32
