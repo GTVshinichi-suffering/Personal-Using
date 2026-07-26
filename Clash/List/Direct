@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipwho.co
 DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,members.3322.org
+DOMAIN,dafeizhu.xxxyun.top
 
   # > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
